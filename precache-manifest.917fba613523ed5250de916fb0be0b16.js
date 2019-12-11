@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb2a542c311ce0106ac3b12932fd6953",
+    "revision": "d615fe26d16b707428f6779996aa46c0",
     "url": "/temaoppgave4/index.html"
   },
   {
-    "revision": "69a933e2bb4b882ab744",
-    "url": "/temaoppgave4/static/css/main.39e52a41.chunk.css"
+    "revision": "a1887078e663ff6a45f3",
+    "url": "/temaoppgave4/static/css/main.df7931b7.chunk.css"
   },
   {
     "revision": "814bfdd2b90d3b8eb681",
     "url": "/temaoppgave4/static/js/2.74cee310.chunk.js"
   },
   {
-    "revision": "69a933e2bb4b882ab744",
+    "revision": "a1887078e663ff6a45f3",
     "url": "/temaoppgave4/static/js/main.d4b8c037.chunk.js"
   },
   {
